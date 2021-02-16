@@ -2,7 +2,7 @@
 
 ## Hola mundo! 👋
 
-### A little more about me...  
+### Un poco mas sobre mi...
 
 ```javascript
 const dromeroDev = {
