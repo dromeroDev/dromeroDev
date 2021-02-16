@@ -15,7 +15,7 @@ const dromeroDev = {
             css: ["Sass", "Bootstrap", "Materialize"]
         },
         backEnd: {
-          js: ["Node", "Express"]
+          js: ["Node", "Express"],
           java: ["Spring", "JPA Hibernate"],
           php: ["Laravel"],
         },
