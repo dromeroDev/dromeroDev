@@ -1,8 +1,9 @@
-<img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
 ## Hola mundo! 👋
 
 ### Un poco mas sobre mi...
+
+<img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
 ```javascript
 const dromeroDev = {
