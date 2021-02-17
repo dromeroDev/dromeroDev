@@ -1,7 +1,7 @@
 
 ## Hola mundo! 👋
 
-### Un poco mas sobre mi...
+### Un poco sobre mi...
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
